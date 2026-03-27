@@ -417,7 +417,7 @@
                 <head>
                     <meta charset="utf-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1">
-                    <title>Interactive Schedule for {{conference_name}}</title>
+                    <title>Research Culture Week for University of Bristol - Interactive Schedule</title>
                     <meta name="description" content="{{conference_description}}">
                     {{{style}}}
                 </head>
@@ -466,7 +466,7 @@
             </html>
         </script>
         <script id="css_template" type="text/x-handlebars-template">
-            @page-background-color: #772059;
+            @page-background-color: #B01C2E;
             @page-foreground-color: #fff;
             @times-foreground-color: #ffe699;
             @grid-background-color: #fff;
@@ -477,7 +477,7 @@
             .schedule_type_training { background: #0cc6de }
             .schedule_type_workshop { background: #a3b703 }
             .schedule_type_social { background: #e0249a }
-			.schedule_type_panel { background: #e0249a }
+			.schedule_type_panel { background: #a614fa }
 
             @schedule-rows: [headings] 2.5rem {{#each gridTimes}}[time-{{toStylesheetTime this}}]{{#unless @last}} 1fr{{/unless}}{{/each}};
 
