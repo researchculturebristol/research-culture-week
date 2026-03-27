@@ -4,202 +4,202 @@ VERSION:2.0
 X-WR-CALNAME:Research Culture Week
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:20250602T083000Z-Introduction-to-Python
-DTSTAMP:20260327T120300Z
+UID:20250622T083000Z-Introduction-to-Python
+DTSTAMP:20260327T121630Z
 SUMMARY:Introduction to Python
 DESCRIPTION:Introduction to Python\nJGI Team\nhttps://www.eventbrite.co.uk/e/introduction-to-python-in-person-tickets-1303064644429?aff&#x3D;schedule\nTraining\nIn-person\n
-DTSTART:20250602T083000Z
-DTEND:20250602T113000Z
+DTSTART:20250622T083000Z
+DTEND:20250622T113000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Training
 END:VEVENT
 BEGIN:VEVENT
-UID:20250602T103000Z-Essentials-of-working-with-Sensitive-Research-Data
-DTSTAMP:20260327T120300Z
+UID:20250622T103000Z-Essentials-of-working-with-Sensitive-Research-Data
+DTSTAMP:20260327T121630Z
 SUMMARY:Essentials of working with Sensitive Research Data
 DESCRIPTION:Essentials of working with Sensitive Research Data\nZosia Beckles (University of Bristol only)\nhttps://forms.office.com/Pages/ResponsePage.aspx?id&#x3D;MH_ksn3NTkql2rGM8aQVG5c4cHHowD1Bh1muHc7SPENUQlFFNkMxUDlMRlJZWUZaQlpLSE1OTFg0Sy4u\nWorkshop\nIn-person\n
-DTSTART:20250602T103000Z
-DTEND:20250602T113000Z
+DTSTART:20250622T103000Z
+DTEND:20250622T113000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:20250602T113000Z-Themed-Networking-Lunch:-Climate-and-AI
-DTSTAMP:20260327T120300Z
+UID:20250622T113000Z-Themed-Networking-Lunch:-Climate-and-AI
+DTSTAMP:20260327T121630Z
 SUMMARY:Themed Networking Lunch: Climate and AI
-DESCRIPTION:Themed Networking Lunch: Climate and AI\nhttps://www.eventbrite.co.uk/e/jgi-networking-lunch-climate-and-ai-in-person-tickets-1301946951379?aff&#x3D;schedule\nSocial\nIn-person\n
-DTSTART:20250602T113000Z
-DTEND:20250602T123000Z
+DESCRIPTION:Themed Networking Lunch: Climate and AI\nhttps://www.eventbrite.co.uk/e/jgi-networking-lunch-climate-and-ai-in-person-tickets-1301946951379?aff&#x3D;schedule\nPanel\nIn-person\n
+DTSTART:20250622T113000Z
+DTEND:20250622T123000Z
 TRANSP:TRANSPARENT
-LOCATION:In-person; Social
+LOCATION:In-person; Panel
 END:VEVENT
 BEGIN:VEVENT
-UID:20250602T123000Z-GW4-AI-and-Data-Science:-AI,-Climate-and-Health
-DTSTAMP:20260327T120300Z
+UID:20250622T123000Z-GW4-AI-and-Data-Science:-AI,-Climate-and-Health
+DTSTAMP:20260327T121630Z
 SUMMARY:GW4 AI and Data Science: AI, Climate and Health
-DESCRIPTION:GW4 AI and Data Science: AI, Climate and Health\nGW4\nhttps://buytickets.at/universityofbristol50/1617159/r/schedule\nSeminar\nIn-person\n
-DTSTART:20250602T123000Z
-DTEND:20250602T170000Z
+DESCRIPTION:GW4 AI and Data Science: AI, Climate and Health\nGW4\nhttps://buytickets.at/universityofbristol50/1617159/r/schedule\nPanel\nIn-person\n
+DTSTART:20250622T123000Z
+DTEND:20250622T170000Z
 TRANSP:TRANSPARENT
-LOCATION:In-person; Seminar
+LOCATION:In-person; Panel
 END:VEVENT
 BEGIN:VEVENT
-UID:20250603T083000Z-Introduction-to-Data-Analysis-in-Python:-Pandas-and-Seaborn-
-DTSTAMP:20260327T120300Z
+UID:20250623T083000Z-Introduction-to-Data-Analysis-in-Python:-Pandas-and-Seaborn-
+DTSTAMP:20260327T121630Z
 SUMMARY:Introduction to Data Analysis in Python: Pandas and Seaborn 
 DESCRIPTION:Introduction to Data Analysis in Python: Pandas and Seaborn \nJGI Team\nhttps://www.eventbrite.co.uk/e/introduction-to-data-analysis-in-python-pandas-and-seaborn-in-person-tickets-1303070481889?aff&#x3D;schedule\nTraining\nIn-person\n
-DTSTART:20250603T083000Z
-DTEND:20250603T113000Z
+DTSTART:20250623T083000Z
+DTEND:20250623T113000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Training
 END:VEVENT
 BEGIN:VEVENT
-UID:20250603T113000Z-Themed-Networking-Lunch:-Health-and-AI-
-DTSTAMP:20260327T120300Z
+UID:20250623T113000Z-Themed-Networking-Lunch:-Health-and-AI-
+DTSTAMP:20260327T121630Z
 SUMMARY:Themed Networking Lunch: Health and AI 
 DESCRIPTION:Themed Networking Lunch: Health and AI \nhttps://www.eventbrite.co.uk/e/jgi-networking-lunch-health-and-ai-in-person-tickets-1302923532359?aff&#x3D;schedule\nSocial\nIn-person\n
-DTSTART:20250603T113000Z
-DTEND:20250603T123000Z
+DTSTART:20250623T113000Z
+DTEND:20250623T123000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Social
 END:VEVENT
 BEGIN:VEVENT
-UID:20250603T123000Z-Health-Data-Research-Network-
-DTSTAMP:20260327T120300Z
+UID:20250623T123000Z-Health-Data-Research-Network-
+DTSTAMP:20260327T121630Z
 SUMMARY:Health Data Research Network 
 DESCRIPTION:Health Data Research Network \nPau Erola\nhttps://forms.office.com/Pages/ResponsePage.aspx?id&#x3D;MH_ksn3NTkql2rGM8aQVG5c4cHHowD1Bh1muHc7SPENUMkE4S0xOTUlUUU04MTlEVFRQSENENUcwMC4u\nWorkshop\nIn-person\n
-DTSTART:20250603T123000Z
-DTEND:20250603T150000Z
+DTSTART:20250623T123000Z
+DTEND:20250623T150000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:20250603T130000Z-Challenges-and-Solutions:-Data-Science-and-the-Nuclear-Industry
-DTSTAMP:20260327T120300Z
+UID:20250623T130000Z-Challenges-and-Solutions:-Data-Science-and-the-Nuclear-Industry
+DTSTAMP:20260327T121630Z
 SUMMARY:Challenges and Solutions: Data Science and the Nuclear Industry
 DESCRIPTION:Challenges and Solutions: Data Science and the Nuclear Industry\nSouth West Nuclear Hub\nhttps://www.eventbrite.co.uk/e/challenges-and-solutions-data-science-and-the-nuclear-industry-online-tickets-1302041855239?aff&#x3D;schedule\nWorkshop\nOnline\n
-DTSTART:20250603T130000Z
-DTEND:20250603T144000Z
+DTSTART:20250623T130000Z
+DTEND:20250623T144000Z
 TRANSP:TRANSPARENT
 LOCATION:Online; Workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:20250604T083000Z-Introduction-to-Neural-Networks-in-PyTorch
-DTSTAMP:20260327T120300Z
+UID:20250624T083000Z-Introduction-to-Neural-Networks-in-PyTorch
+DTSTAMP:20260327T121630Z
 SUMMARY:Introduction to Neural Networks in PyTorch
 DESCRIPTION:Introduction to Neural Networks in PyTorch\nJGI Team\nhttps://www.eventbrite.co.uk/e/introduction-to-neural-networks-in-pytorch-in-person-tickets-1303085145749?aff&#x3D;schedule\nTraining\nIn-person\n
-DTSTART:20250604T083000Z
-DTEND:20250604T113000Z
+DTSTART:20250624T083000Z
+DTEND:20250624T113000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Training
 END:VEVENT
 BEGIN:VEVENT
-UID:20250604T090000Z-Mapping-the-Future-City
-DTSTAMP:20260327T120300Z
+UID:20250624T090000Z-Mapping-the-Future-City
+DTSTAMP:20260327T121630Z
 SUMMARY:Mapping the Future City
 DESCRIPTION:Mapping the Future City\nBristol Digital Futures Institute\nhttps://www.eventbrite.co.uk/e/mapping-the-future-city-in-person-tickets-1306787810519?aff&#x3D;schedule\nWorkshop\nIn-person\n
-DTSTART:20250604T090000Z
-DTEND:20250604T120000Z
+DTSTART:20250624T090000Z
+DTEND:20250624T120000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:20250604T113000Z-Themed-Networking-Lunch:-Artificial-Intelligence-and-Society
-DTSTAMP:20260327T120300Z
+UID:20250624T113000Z-Themed-Networking-Lunch:-Artificial-Intelligence-and-Society
+DTSTAMP:20260327T121630Z
 SUMMARY:Themed Networking Lunch: Artificial Intelligence and Society
 DESCRIPTION:Themed Networking Lunch: Artificial Intelligence and Society\nhttps://www.eventbrite.co.uk/e/jgi-networking-lunch-artificial-intelligence-and-society-in-person-tickets-1303127181479?aff&#x3D;schedule\nSocial\nIn-person\n
-DTSTART:20250604T113000Z
-DTEND:20250604T123000Z
+DTSTART:20250624T113000Z
+DTEND:20250624T123000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Social
 END:VEVENT
 BEGIN:VEVENT
-UID:20250604T123000Z-Introducing-Isambard-AI:-new-leadership-class-UK-facility-to-advance-AI
-DTSTAMP:20260327T120300Z
+UID:20250624T123000Z-Introducing-Isambard-AI:-new-leadership-class-UK-facility-to-advance-AI
+DTSTAMP:20260327T121630Z
 SUMMARY:Introducing Isambard-AI: new leadership class UK facility to advance AI
 DESCRIPTION:Introducing Isambard-AI: new leadership class UK facility to advance AI\nIsambard-AI (UK research staff only)\nTraining\nIn-person\n
-DTSTART:20250604T123000Z
-DTEND:20250604T143000Z
+DTSTART:20250624T123000Z
+DTEND:20250624T143000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Training
 END:VEVENT
 BEGIN:VEVENT
-UID:20250604T160000Z-AI-for-Good:-Celebrating-the-University-of-Bristol's-National-AI-Award
-DTSTAMP:20260327T120300Z
+UID:20250624T160000Z-AI-for-Good:-Celebrating-the-University-of-Bristol's-National-AI-Award
+DTSTAMP:20260327T121630Z
 SUMMARY:AI for Good: Celebrating the University of Bristol's National AI Award
 DESCRIPTION:AI for Good: Celebrating the University of Bristol's National AI Award\nhttps://www.eventbrite.co.uk/e/ai-for-good-celebrating-bristols-national-ai-award-in-person-tickets-1303151524289?aff&#x3D;schedule\nSeminar\nIn-person\n
-DTSTART:20250604T160000Z
-DTEND:20250604T190000Z
+DTSTART:20250624T160000Z
+DTEND:20250624T190000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Seminar
 END:VEVENT
 BEGIN:VEVENT
-UID:20250605T083000Z-Best-Practices-for-Reproducible-Python/R-Projects
-DTSTAMP:20260327T120300Z
+UID:20250625T083000Z-Best-Practices-for-Reproducible-Python/R-Projects
+DTSTAMP:20260327T121630Z
 SUMMARY:Best Practices for Reproducible Python/R Projects
 DESCRIPTION:Best Practices for Reproducible Python/R Projects\nJGI Team\nhttps://www.eventbrite.co.uk/e/best-practice-for-reproducible-computational-research-in-person-tickets-1303180129849?aff&#x3D;schedule\nTraining\nIn-person\n
-DTSTART:20250605T083000Z
-DTEND:20250605T113000Z
+DTSTART:20250625T083000Z
+DTEND:20250625T113000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Training
 END:VEVENT
 BEGIN:VEVENT
-UID:20250605T113000Z-Themed-Networking-Lunch:-Research-Collaboration
-DTSTAMP:20260327T120300Z
+UID:20250626T113000Z-Themed-Networking-Lunch:-Research-Collaboration
+DTSTAMP:20260327T121630Z
 SUMMARY:Themed Networking Lunch: Research Collaboration
 DESCRIPTION:Themed Networking Lunch: Research Collaboration\nhttps://www.eventbrite.co.uk/e/jgi-networking-lunch-research-collaboration-in-person-tickets-1306700278709?aff&#x3D;schedule\nSocial\nIn-person\n
-DTSTART:20250605T113000Z
-DTEND:20250605T123000Z
+DTSTART:20250626T113000Z
+DTEND:20250626T123000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Social
 END:VEVENT
 BEGIN:VEVENT
-UID:20250605T123000Z-Gambling-Harms-Research:-Ideas-for-a-Data-Driven-Research-Agenda
-DTSTAMP:20260327T120300Z
+UID:20250629T123000Z-Gambling-Harms-Research:-Ideas-for-a-Data-Driven-Research-Agenda
+DTSTAMP:20260327T121630Z
 SUMMARY:Gambling Harms Research: Ideas for a Data Driven Research Agenda
 DESCRIPTION:Gambling Harms Research: Ideas for a Data Driven Research Agenda\nBristol Hub for Gambling Harms Research\nhttps://www.eventbrite.co.uk/e/gambling-harms-research-ideas-for-a-data-driven-research-agenda-hybrid-tickets-1302972849869?aff&#x3D;schedule\nWorkshop\nOnline &amp; in-person\n
-DTSTART:20250605T123000Z
-DTEND:20250605T143000Z
+DTSTART:20250629T123000Z
+DTEND:20250629T143000Z
 TRANSP:TRANSPARENT
 LOCATION:Online &amp; in-person; Workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:20250606T083000Z-Applied-Data-Analysis-in-Python:-Scikit-learn
-DTSTAMP:20260327T120300Z
+UID:20250630T083000Z-Applied-Data-Analysis-in-Python:-Scikit-learn
+DTSTAMP:20260327T121630Z
 SUMMARY:Applied Data Analysis in Python: Scikit-learn
 DESCRIPTION:Applied Data Analysis in Python: Scikit-learn\nJGI Team\nhttps://www.eventbrite.co.uk/e/applied-data-analysis-in-python-scikit-learn-in-person-tickets-1306655083529?aff&#x3D;schedule\nTraining\nIn-person\n
-DTSTART:20250606T083000Z
-DTEND:20250606T113000Z
+DTSTART:20250630T083000Z
+DTEND:20250630T113000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Training
 END:VEVENT
 BEGIN:VEVENT
-UID:20250606T110000Z-Museums-of-Languages:-A-Concept-Game-Jam-
-DTSTAMP:20260327T120300Z
+UID:20250701T110000Z-Museums-of-Languages:-A-Concept-Game-Jam-
+DTSTAMP:20260327T121630Z
 SUMMARY:Museums of Languages: A Concept Game Jam 
 DESCRIPTION:Museums of Languages: A Concept Game Jam \nBristol Digital Games Lab\nhttps://www.eventbrite.co.uk/e/museums-of-languages-a-concept-game-jam-in-person-tickets-1303050050779?aff&#x3D;schedule\nWorkshop\nIn-person\n
-DTSTART:20250606T110000Z
-DTEND:20250606T160000Z
+DTSTART:20250701T110000Z
+DTEND:20250701T160000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Workshop
 END:VEVENT
 BEGIN:VEVENT
-UID:20250606T113000Z-Themed-Networking-Lunch:-Careers-in-Data-Science-and-AI
-DTSTAMP:20260327T120300Z
+UID:20250701T113000Z-Themed-Networking-Lunch:-Careers-in-Data-Science-and-AI
+DTSTAMP:20260327T121630Z
 SUMMARY:Themed Networking Lunch: Careers in Data Science and AI
 DESCRIPTION:Themed Networking Lunch: Careers in Data Science and AI\nhttps://www.eventbrite.co.uk/e/jgi-networking-lunch-careers-in-data-science-and-ai-in-person-tickets-1306702435159?aff&#x3D;schedule\nSocial\nIn-person\n
-DTSTART:20250606T113000Z
-DTEND:20250606T123000Z
+DTSTART:20250701T113000Z
+DTEND:20250701T123000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Social
 END:VEVENT
 BEGIN:VEVENT
-UID:20250606T130000Z-Careers-in-Data-Science
-DTSTAMP:20260327T120300Z
+UID:20250701T130000Z-Careers-in-Data-Science
+DTSTAMP:20260327T121630Z
 SUMMARY:Careers in Data Science
 DESCRIPTION:Careers in Data Science\nCompass CDT\nhttps://www.eventbrite.co.uk/e/careers-in-data-science-in-person-tickets-1306706086079?aff&#x3D;schedule\nSeminar\nIn-person\n
-DTSTART:20250606T130000Z
-DTEND:20250606T153000Z
+DTSTART:20250701T130000Z
+DTEND:20250701T153000Z
 TRANSP:TRANSPARENT
 LOCATION:In-person; Seminar
 END:VEVENT
