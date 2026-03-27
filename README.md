@@ -1,4 +1,4 @@
-# Bristol Data Week interative schedule
+# Research Culture Week interative schedule
 
-- [View the schedule](https://jgibristol.github.io/data-week/)
-- [Edit the schedule](https://jgibristol.github.io/data-week/editor/)
+- [View the schedule](https://researchculturebristol.github.io/research-culture-week/)
+- [Edit the schedule](https://researchculturebristol.github.io/research-culture-week/editor/)
