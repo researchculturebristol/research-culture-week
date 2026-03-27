@@ -47,7 +47,7 @@
          position: absolute; top: 4rem; right: 0.5rem; bottom: 0.5rem; left: 0.5rem; font-size: 0.8rem; } @media screen and (max-width: 575px) {
          #schedule {
          top: 7rem; } } #schedule > div {
-         display: grid; grid-auto-flow: column; grid-template-columns: 4rem 2fr 2fr 2fr 1fr 1fr 1fr 1fr 2fr ;
+         display: grid; grid-auto-flow: column; grid-template-columns: 4rem 2fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr ;
          border-bottom: 1rem solid #B01C2E; background: #B01C2E; } @media screen and (max-width: 1000px) {
          #schedule > div {
          display: block; border-bottom: none; } } @media print {
@@ -57,20 +57,20 @@
          grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(3) {
          grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(4) {
          grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(5) {
-         grid-template-columns: repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(6) {
-         grid-template-columns: repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(7) {
-         grid-template-columns: repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(8) {
-         grid-template-columns: repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(9) {
+         grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(6) {
+         grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(7) {
+         grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(8) {
+         grid-template-columns: repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(9) {
          grid-template-columns: repeat(2, minmax(12rem, 1fr)); } @media screen and (max-width: 1000px) {
          #schedule ul {
          margin-bottom: 1rem; border-right: none; } #schedule ul:nth-child(2) {
          grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(3) {
          grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(4) {
          grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(5) {
-         grid-template-columns: 4rem repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(6) {
-         grid-template-columns: 4rem repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(7) {
-         grid-template-columns: 4rem repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(8) {
-         grid-template-columns: 4rem repeat(1, minmax(12rem, 1fr)); } #schedule ul:nth-child(9) {
+         grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(6) {
+         grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(7) {
+         grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(8) {
+         grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } #schedule ul:nth-child(9) {
          grid-template-columns: 4rem repeat(2, minmax(12rem, 1fr)); } } @media screen and (max-width: 575px) {
          #schedule ul {
          display: block; padding-bottom: 0.01rem; } } @media print {
@@ -240,7 +240,7 @@
                   <time>09:00</time><time>10:00</time><time>11:00</time><time>12:00</time><time>13:00</time><time>14:00</time><time>15:00</time><time>16:00</time><time>17:00</time><time>18:00</time><time>19:00</time>
                </li>
                <li aria-hidden="true" class="schedule_shading"><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time></li>
-               <li class="schedule_event schedule_type_training schedule_column_1" style="grid-row: time-0930 / time-1230;">
+               <li class="schedule_event schedule_type_training schedule_column_span" style="grid-row: time-0930 / time-1230;">
                   <time datetime="2026-06-25T08:30:00.000Z-2026-06-25T11:30:00.000Z"><span aria-label="Date" class="sr-only">Thursday 25th June,</span> <span aria-label="Time">09:30-12:30</span></time> <span aria-label="Location" class="schedule_location schedule_location_in-person">In‑person</span> <span aria_label="Event type" class="schedule_type">Training</span> 
                   <h3> <a target="_blank" href="https://www.eventbrite.co.uk/e/best-practice-for-reproducible-computational-research-in-person-tickets-1303180129849?aff&#x3D;schedule" title="Training">Best Practices for Reproducible Python/R Projects</a> </h3>
                   <span aria-label="Speaker">JGI Team</span><br> 
@@ -255,7 +255,7 @@
                   <time>09:00</time><time>10:00</time><time>11:00</time><time>12:00</time><time>13:00</time><time>14:00</time><time>15:00</time><time>16:00</time><time>17:00</time><time>18:00</time><time>19:00</time>
                </li>
                <li aria-hidden="true" class="schedule_shading"><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time></li>
-               <li class="schedule_event schedule_type_social schedule_column_1" style="grid-row: time-1230 / time-1330;">
+               <li class="schedule_event schedule_type_social schedule_column_span" style="grid-row: time-1230 / time-1330;">
                   <time datetime="2026-06-26T11:30:00.000Z-2026-06-26T12:30:00.000Z"><span aria-label="Date" class="sr-only">Friday 26th June,</span> <span aria-label="Time">12:30-13:30</span></time> <span aria-label="Location" class="schedule_location schedule_location_in-person">In‑person</span> <span aria_label="Event type" class="schedule_type">Social</span> 
                   <h3> <a target="_blank" href="https://www.eventbrite.co.uk/e/jgi-networking-lunch-research-collaboration-in-person-tickets-1306700278709?aff&#x3D;schedule" title="Social">Themed Networking Lunch: Research Collaboration</a> </h3>
                </li>
@@ -269,7 +269,7 @@
                   <time>09:00</time><time>10:00</time><time>11:00</time><time>12:00</time><time>13:00</time><time>14:00</time><time>15:00</time><time>16:00</time><time>17:00</time><time>18:00</time><time>19:00</time>
                </li>
                <li aria-hidden="true" class="schedule_shading"><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time></li>
-               <li class="schedule_event schedule_type_workshop schedule_column_1" style="grid-row: time-1330 / time-1530;">
+               <li class="schedule_event schedule_type_workshop schedule_column_span" style="grid-row: time-1330 / time-1530;">
                   <time datetime="2026-06-29T12:30:00.000Z-2026-06-29T14:30:00.000Z"><span aria-label="Date" class="sr-only">Monday 29th June,</span> <span aria-label="Time">13:30-15:30</span></time> <span aria-label="Location" class="schedule_location schedule_location_online &amp; in-person">Online &amp; in‑person</span> <span aria_label="Event type" class="schedule_type">Workshop</span> 
                   <h3> <a target="_blank" href="https://www.eventbrite.co.uk/e/gambling-harms-research-ideas-for-a-data-driven-research-agenda-hybrid-tickets-1302972849869?aff&#x3D;schedule" title="Workshop">Gambling Harms Research: Ideas for a Data Driven Research Agenda</a> </h3>
                   <span aria-label="Speaker">Bristol Hub for Gambling Harms Research</span><br> 
@@ -284,7 +284,7 @@
                   <time>09:00</time><time>10:00</time><time>11:00</time><time>12:00</time><time>13:00</time><time>14:00</time><time>15:00</time><time>16:00</time><time>17:00</time><time>18:00</time><time>19:00</time>
                </li>
                <li aria-hidden="true" class="schedule_shading"><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time><time></time></li>
-               <li class="schedule_event schedule_type_training schedule_column_1" style="grid-row: time-0930 / time-1230;">
+               <li class="schedule_event schedule_type_training schedule_column_span" style="grid-row: time-0930 / time-1230;">
                   <time datetime="2026-06-30T08:30:00.000Z-2026-06-30T11:30:00.000Z"><span aria-label="Date" class="sr-only">Tuesday 30th June,</span> <span aria-label="Time">09:30-12:30</span></time> <span aria-label="Location" class="schedule_location schedule_location_in-person">In‑person</span> <span aria_label="Event type" class="schedule_type">Training</span> 
                   <h3> <a target="_blank" href="https://www.eventbrite.co.uk/e/applied-data-analysis-in-python-scikit-learn-in-person-tickets-1306655083529?aff&#x3D;schedule" title="Training">Applied Data Analysis in Python: Scikit-learn</a> </h3>
                   <span aria-label="Speaker">JGI Team</span><br> 
